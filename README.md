@@ -11,56 +11,15 @@ Cada alumno aprenderá a:
 
 ---
 
-## Archivos del repositorio
-
-### `README.md`
-
-```md
-# Presentaciones de alumnos – Curso de prácticas
-
-Este repositorio está destinado a practicar Git y GitHub mediante la creación de ramas y pull requests.
-
-Cada alumno debe:
-
-1. Clonar este repositorio
-2. Crear una rama con su nombre
-3. Añadir su presentación en el archivo `plantilla.md`
-4. Subir los cambios y crear un Pull Request
-
----
-
-Recuerda añadirte en tu grupo correspondiente y en orden alfabético por nombre.
-```
-
-### `plantilla.md`
-
-```md
-# Presentaciones de alumnos
-
-## DAW
-<!-- Añade aquí tu nombre si estás en DAW -->
-
-## DAM
-<!-- Añade aquí tu nombre si estás en DAM -->
-
-## SMR
-<!-- Añade aquí tu nombre si estás en SMR -->
-
-## ASIR
-<!-- Añade aquí tu nombre si estás en ASIR -->
-```
-
----
-
-## Instrucciones paso a paso para los alumnos
+## Instrucciones paso a paso
 
 ```bash
 # 1. Clona el repositorio
-$ git clone https://github.com/<tu-org>/presentaciones.git
-$ cd presentaciones
+$ git clone git@github.com:campus-CodeArts/Actividad-Pr-ctica-Github.git
+$ cd Actividad-Pr-ctica-Github
 
-# 2. Crea tu rama personal
-$ git checkout -b presentacion-tu-nombre
+# 2. Crea tu rama personal con tu nombre
+$ git checkout -b nombredelalumno
 
 # 3. Edita plantilla.md y añade tu nombre en tu grupo
 
