@@ -1,7 +1,7 @@
 # Presentaciones de alumnos
 
 ## DAW
-<!-- Añade aquí tu nombre si estás en DAW -->
+Silvia Expósito Velázquez (Gorillas)
 
 ## DAM
 <!-- Añade aquí tu nombre si estás en DAM -->
