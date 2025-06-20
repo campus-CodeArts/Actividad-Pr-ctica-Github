@@ -3,6 +3,7 @@
 ## DAW
 <!-- Añade aquí tu nombre si estás en DAW -->
 Vasile Lungoci (Gorrilas)
+Antonio David Palomo (Koalas)
 ## DAM
 <!-- Añade aquí tu nombre si estás en DAM -->
 
