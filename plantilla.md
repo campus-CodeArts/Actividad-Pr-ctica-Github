@@ -3,7 +3,9 @@
 ## DAW
 <!-- Añade aquí tu nombre si estás en DAW -->
 Vasile Lungoci (Gorrilas)
+Silvia Expósito Velázquez (Gorillas)
 Antonio David Palomo (Koalas)
+
 ## DAM
 <!-- Añade aquí tu nombre si estás en DAM -->
 
