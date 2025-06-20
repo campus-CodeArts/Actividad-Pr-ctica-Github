@@ -19,7 +19,7 @@ $ git clone git@github.com:campus-CodeArts/Actividad-Pr-ctica-Github.git
 $ cd Actividad-Pr-ctica-Github
 
 # 2. Crea tu rama personal con tu nombre
-$ git checkout -b nombredelalumno
+$ git checkout -b rama/nombredelalumno
 
 # 3. Edita plantilla.md y añade tu nombre en tu grupo
 # Por ejemplo si estas en DAW y eres del grupo Koala, en plantilla.md añade tu nombre y grupo (Koala) en el apartado de DAW
@@ -29,7 +29,7 @@ $ git add plantilla.md
 $ git commit -m "Añadida presentación de Nombre Apellido (DAW)"
 
 # 5. Sube tu rama a GitHub
-$ git push origin presentacion-tu-nombre
+$ git push origin rama/nombredelalumno
 
 # 6. Abre un Pull Request y haz merge a main
 1. Ve al repositorio en GitHub.
