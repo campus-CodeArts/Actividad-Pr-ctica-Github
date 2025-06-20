@@ -31,7 +31,14 @@ $ git commit -m "Añadida presentación de Nombre Apellido (DAW)"
 # 5. Sube tu rama a GitHub
 $ git push origin presentacion-tu-nombre
 
-# 6. Abre un Pull Request desde GitHub
+# 6. Abre un Pull Request y haz merge a main
+1. Ve al repositorio en GitHub.
+2. GitHub te mostrará un botón para comparar y crear un Pull Request ("Compare & pull request"). Haz clic ahí.
+3. Asegúrate de que estás comparando tu rama con `main`.
+4. Añade un título claro y una descripción si lo deseas.
+5. Haz clic en "Create pull request".
+6. Una vez creado el Pull Request, haz clic en el botón verde "Merge pull request".
+7. Confirma haciendo clic en "Confirm merge".
 ```
 
 ---
