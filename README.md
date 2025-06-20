@@ -22,6 +22,7 @@ $ cd Actividad-Pr-ctica-Github
 $ git checkout -b nombredelalumno
 
 # 3. Edita plantilla.md y añade tu nombre en tu grupo
+# Por ejemplo si estas en DAW y eres del grupo Koala, en plantilla.md añade tu nombre y grupo (Koala) en el apartado de DAW
 
 # 4. Añade y haz commit de los cambios
 $ git add plantilla.md
