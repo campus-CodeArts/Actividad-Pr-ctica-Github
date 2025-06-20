@@ -2,7 +2,7 @@
 
 ## DAW
 <!-- Añade aquí tu nombre si estás en DAW -->
-
+Vasile Lungoci (Gorrilas)
 ## DAM
 <!-- Añade aquí tu nombre si estás en DAM -->
 
