@@ -5,6 +5,7 @@
 Vasile Lungoci (Gorrilas)
 Silvia Expósito Velázquez (Gorillas)
 Mamen Andújar (Testing)
+Valentin Ruiz (Tardes)
 
 ## DAM
 <!-- Añade aquí tu nombre si estás en DAM -->
