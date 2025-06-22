@@ -8,6 +8,7 @@ Mamen Andújar (Testing)
 Valentin Ruiz (Tardes)
 
 ## DAM
+Sergio Lasheras (Pentagon)
 <!-- Añade aquí tu nombre si estás en DAM -->
 
 ## SMR
