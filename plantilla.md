@@ -16,6 +16,7 @@ Laura Pérez Bueno (Lions)
 Antonio David Palomo (Koalas)
 Sergio Borrego (Lions)
 Pelayo Naredo García(Lions)
+Javier Checa Martínez (Tarde)
 
 ## DAM
 
