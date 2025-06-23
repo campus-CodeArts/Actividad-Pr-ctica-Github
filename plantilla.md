@@ -11,6 +11,7 @@ Javier Roldán Pomareta (Lions)
 Marcelino Gomez Argibay (Lions)
 Estefanía Maldonado (Gorillas)
 Laura Pérez Bueno (Lions)
+Antonio David Palomo (Koalas)
 
 ## DAM
 Sergio Lasheras (Pentagon)
