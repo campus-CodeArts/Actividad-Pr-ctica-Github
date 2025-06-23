@@ -1,7 +1,9 @@
 # Presentaciones de alumnos
 
 ## DAW
+
 <!-- Añade aquí tu nombre si estás en DAW -->
+
 Manuela Mendoza Barba (Gorillas)
 Vasile Lungoci (Gorrilas)
 Silvia Expósito Velázquez (Gorillas)
@@ -13,15 +15,22 @@ Estefanía Maldonado (Gorillas)
 Laura Pérez Bueno (Lions)
 Antonio David Palomo (Koalas)
 Sergio Borrego (Lions)
+Pelayo Naredo García(Lions)
 
 ## DAM
+
 Sergio Lasheras (Pentagon)
+
 <!-- Añade aquí tu nombre si estás en DAM -->
+
 Pablo Martínez García (Triangle)
+
 ## SMR
+
 <!-- Añade aquí tu nombre si estás en SMR -->
+
 Azdin Manuel Farisse Nelson
 
 ## ASIR
-<!-- Añade aquí tu nombre si estás en ASIR -->
 
+<!-- Añade aquí tu nombre si estás en ASIR -->
