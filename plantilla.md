@@ -18,6 +18,7 @@ Sergio Lasheras (Pentagon)
 Pablo Martínez García (Triangle)
 ## SMR
 <!-- Añade aquí tu nombre si estás en SMR -->
+Azdin Manuel Farisse Nelson
 
 ## ASIR
 <!-- Añade aquí tu nombre si estás en ASIR -->
