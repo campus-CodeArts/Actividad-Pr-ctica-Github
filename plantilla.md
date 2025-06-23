@@ -2,6 +2,7 @@
 
 ## DAW
 <!-- Añade aquí tu nombre si estás en DAW -->
+Manuela Mendoza Barba (Gorillas)
 Vasile Lungoci (Gorrilas)
 Silvia Expósito Velázquez (Gorillas)
 Mamen Andújar (Testing)
