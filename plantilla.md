@@ -12,6 +12,7 @@ Marcelino Gomez Argibay (Lions)
 Estefanía Maldonado (Gorillas)
 Laura Pérez Bueno (Lions)
 Antonio David Palomo (Koalas)
+Sergio Borrego (Lions)
 
 ## DAM
 Sergio Lasheras (Pentagon)
