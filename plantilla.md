@@ -7,6 +7,7 @@
 Manuela Mendoza Barba (Gorillas)
 Vasile Lungoci (Gorrilas)
 Silvia Expósito Velázquez (Gorillas)
+Enrique Barroso Lainé (Tarde)
 Mamen Andújar (Testing)
 Valentin Ruiz (Tardes)
 Javier Roldán Pomareta (Lions)
