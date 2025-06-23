@@ -12,7 +12,7 @@ Marcelino Gomez Argibay (Lions)
 ## DAM
 Sergio Lasheras (Pentagon)
 <!-- Añade aquí tu nombre si estás en DAM -->
-
+Pablo Martínez García (Triangle)
 ## SMR
 <!-- Añade aquí tu nombre si estás en SMR -->
 
