@@ -15,6 +15,7 @@ Sergio Lasheras (Pentagon)
 
 ## SMR
 <!-- Añade aquí tu nombre si estás en SMR -->
+Azdin Manuel Farisse Nelson
 
 ## ASIR
 <!-- Añade aquí tu nombre si estás en ASIR -->
