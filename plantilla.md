@@ -8,6 +8,7 @@ Mamen Andújar (Testing)
 Valentin Ruiz (Tardes)
 Javier Roldán Pomareta (Lions)
 Marcelino Gomez Argibay (Lions)
+Estefanía Maldonado (Gorillas)
 
 ## DAM
 Sergio Lasheras (Pentagon)
