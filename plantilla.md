@@ -7,6 +7,7 @@ Silvia Expósito Velázquez (Gorillas)
 Mamen Andújar (Testing)
 Valentin Ruiz (Tardes)
 Javier Roldán Pomareta (Lions)
+Marcelino Gomez Argibay (Lions)
 
 ## DAM
 Sergio Lasheras (Pentagon)
