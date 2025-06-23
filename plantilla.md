@@ -9,6 +9,7 @@ Valentin Ruiz (Tardes)
 Javier Roldán Pomareta (Lions)
 Marcelino Gomez Argibay (Lions)
 Estefanía Maldonado (Gorillas)
+Laura Pérez Bueno (Lions)
 
 ## DAM
 Sergio Lasheras (Pentagon)
