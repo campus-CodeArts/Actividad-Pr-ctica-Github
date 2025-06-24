@@ -19,6 +19,7 @@ Sergio Borrego (Lions)
 Pelayo Naredo García(Lions)
 Javier Checa Martínez (Tarde)
 Gino Varela Lizama (Armadillos)
+María Ocete Martín (Lions)
 
 ## DAM
 
