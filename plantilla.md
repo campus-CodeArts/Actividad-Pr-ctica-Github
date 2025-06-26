@@ -33,7 +33,7 @@ Pablo Martínez García (Triangle)
 
 ## SMR
 
-<!-- Añade aquí tu nombre si estás en SMR -->
+Daniel Ariza Cobos<!-- Añade aquí tu nombre si estás en SMR -->
 
 Azdin Manuel Farisse Nelson
 
