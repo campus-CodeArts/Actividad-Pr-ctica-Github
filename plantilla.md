@@ -36,7 +36,7 @@ Pablo Martínez García (Triangle)
 <!-- Añade aquí tu nombre si estás en SMR -->
 
 Azdin Manuel Farisse Nelson
-
+Andoni Escudero Cerviño
 ## ASIR
 
 <!-- Añade aquí tu nombre si estás en ASIR -->
