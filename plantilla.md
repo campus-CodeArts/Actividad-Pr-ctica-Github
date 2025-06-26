@@ -36,7 +36,7 @@ Pablo Martínez García (Triangle)
 <!-- Añade aquí tu nombre si estás en SMR -->
 
 Azdin Manuel Farisse Nelson
-
+Lucia De La Fuente Mata
 ## ASIR
 
 <!-- Añade aquí tu nombre si estás en ASIR -->
