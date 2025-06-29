@@ -23,6 +23,7 @@ Gino Varela Lizama (Armadillos)
 María Ocete Martín (Lions)
 Miguel Angel Lara García (Gorillas)
 Salvador Serrano Arocha (Gorillas)
+Gersonie Elizaga (Armadillos)
 
 ## DAM
 
