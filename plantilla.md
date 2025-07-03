@@ -27,10 +27,10 @@ Gersonie Elizaga (Armadillos)
 
 ## DAM
 
-Sergio Lasheras (Pentagon)
-
 <!-- Añade aquí tu nombre si estás en DAM -->
 
+Sergio Lasheras (Pentagon)
+Laura Granado (square y pentagon)
 Pablo Martínez García (Triangle)
 
 ## SMR
